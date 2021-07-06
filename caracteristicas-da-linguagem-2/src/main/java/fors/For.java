@@ -6,7 +6,8 @@ public class For {
             System.out.println("I=" + i);
         }
 
-        for (int x = 0; x <= 5; x++)
+        for (int x = 0; x <= 5; x++) {
             System.out.println("X=" + x);
+        }
     }
 }
