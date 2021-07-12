@@ -1,0 +1,36 @@
+LSP/problem/Retangulo.java
+ LSP.problem.Retangulo
+SRP/solution/OrdemDeCompraRepository.java
+ SRP.solution.OrdemDeCompraRepository
+OCP/solution/DescontoLivro.java
+ OCP.solution.DescontoLivro
+LSP/problem/Quadrado.java
+ LSP.problem.Quadrado
+OCP/problem/ControladorDeDesconto.java
+ OCP.problem.ControladorDeDesconto
+OCP/solution/ControladorDeDesconto.java
+ OCP.solution.ControladorDeDesconto
+OCP/problem/DescontoLivroAutoAjuda.java
+ OCP.problem.DescontoLivroAutoAjuda
+OCP/solution/DescontoLivroAcao.java
+ OCP.solution.DescontoLivroAcao
+OCP/solution/DescontoLivroAutoAjuda.java
+ OCP.solution.DescontoLivroAutoAjuda
+OCP/problem/DescontoLivroInfantil.java
+ OCP.problem.DescontoLivroInfantil
+OCP/problem/DescontoLivroAcao.java
+ OCP.problem.DescontoLivroAcao
+SRP/problem/OrdemDeCompra.java
+ SRP.problem.OrdemDeCompra
+SRP/solution/OrdemDeCompraPrint.java
+ SRP.solution.OrdemDeCompraPrint
+LSP/problem/Main.java
+ LSP.problem.Main
+OCP/solution/DescontoLivroInfantil.java
+ OCP.solution.DescontoLivroInfantil
+SRP/problem/Produto.java
+ SRP.problem.Produto
+SRP/solution/OrdemDeCompra.java
+ SRP.solution.OrdemDeCompra
+SRP/solution/OrdemDeCompraMail.java
+ SRP.solution.OrdemDeCompraMail
