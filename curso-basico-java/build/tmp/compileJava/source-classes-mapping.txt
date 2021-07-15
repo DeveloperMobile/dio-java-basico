@@ -1,3 +1,5 @@
+aulas/trabalhando_com_datas/local_date/Exemplo010.java
+ aulas.trabalhando_com_datas.local_date.Exemplo010
 aulas/oo/part3/heranca/exemplo003/Carro.java
  aulas.oo.part3.heranca.exemplo003.Carro
 aulas/oo/part3/heranca/exercicio/Atendente.java
@@ -10,12 +12,16 @@ aulas/oo/part1/paradigma/ExemploMetodos.java
  aulas.oo.part1.paradigma.ExemploMetodos
 aulas/trabalhando_com_datas/date/exercicio/Exercicio001.java
  aulas.trabalhando_com_datas.date.exercicio.Exercicio001
+aulas/trabalhando_com_datas/date_format/Exemplo009.java
+ aulas.trabalhando_com_datas.date_format.Exemplo009
 aulas/oo/part4/exemplo_super/Carro.java
  aulas.oo.part4.exemplo_super.Carro
 aulas/trabalhando_com_datas/date/Exempo001.java
  aulas.trabalhando_com_datas.date.Exempo001
 aulas/trabalhando_com_datas/calendar/Exemplo005.java
  aulas.trabalhando_com_datas.calendar.Exemplo005
+aulas/trabalhando_com_datas/date_format/Exemplo008.java
+ aulas.trabalhando_com_datas.date_format.Exemplo008
 aulas/trabalhando_com_datas/date/Exempo002.java
  aulas.trabalhando_com_datas.date.Exempo002
 aulas/oo/part4/exemplo_super/Veiculo.java
@@ -30,12 +36,16 @@ aulas/oo/part3/heranca/exercicio/Supervisor.java
  aulas.oo.part3.heranca.exercicio.Supervisor
 aulas/oo/part3/heranca/exemplo001/Motocicleta.java
  aulas.oo.part3.heranca.exemplo001.Motocicleta
-aulas/oo/part3/heranca/exemplo003/Exemplo003.java
- aulas.oo.part3.heranca.exemplo003.Exemplo003
+aulas/trabalhando_com_datas/calendar/exercicio/Exercicio001.java
+ aulas.trabalhando_com_datas.calendar.exercicio.Exercicio001
 aulas/oo/part4/exemplo_this/Veiculo.java
  aulas.oo.part4.exemplo_this.Veiculo
+aulas/trabalhando_com_datas/local_date/Exemplo014.java
+ aulas.trabalhando_com_datas.local_date.Exemplo014
 aulas/oo/part1/paradigma/exercicio/Carro.java
  aulas.oo.part1.paradigma.exercicio.Carro
+aulas/trabalhando_com_datas/local_date/Exemplo011.java
+ aulas.trabalhando_com_datas.local_date.Exemplo011
 aulas/oo/part4/exemplo_hashcode/Carro.java
  aulas.oo.part4.exemplo_hashcode.Carro
 aulas/oo/part3/heranca/exemplo003/Motocicleta.java
@@ -52,6 +62,10 @@ aulas/oo/part4/exemplo_equals/exemplo002/Exemplo002.java
  aulas.oo.part4.exemplo_equals.exemplo002.Exemplo002
 aulas/oo/part4/exemplo_hashcode/Exemplo002.java
  aulas.oo.part4.exemplo_hashcode.Exemplo002
+aulas/oo/part3/heranca/exemplo003/Exemplo003.java
+ aulas.oo.part3.heranca.exemplo003.Exemplo003
+aulas/trabalhando_com_datas/local_date/Exemplo013.java
+ aulas.trabalhando_com_datas.local_date.Exemplo013
 aulas/oo/part1/paradigma/exercicio/ProgramaCarro.java
  aulas.oo.part1.paradigma.exercicio.ProgramaCarro
 aulas/oo/part4/exemplo_equals/exemplo002/Veiculo.java
@@ -62,6 +76,8 @@ aulas/oo/part3/heranca/exercicio/Funcionario.java
  aulas.oo.part3.heranca.exercicio.Funcionario
 aulas/trabalhando_com_datas/calendar/Exemplo007.java
  aulas.trabalhando_com_datas.calendar.Exemplo007
+aulas/trabalhando_com_datas/local_date/Exemplo012.java
+ aulas.trabalhando_com_datas.local_date.Exemplo012
 aulas/oo/part4/exemplo_equals/exemplo001/Carro.java
  aulas.oo.part4.exemplo_equals.exemplo001.Carro
 aulas/oo/part3/encapsulamento/Pessoa.java
@@ -96,6 +112,8 @@ aulas/oo/part3/heranca/exemplo001/Veiculo.java
  aulas.oo.part3.heranca.exemplo001.Veiculo
 aulas/trabalhando_com_datas/date/Exempo003.java
  aulas.trabalhando_com_datas.date.Exempo003
+aulas/trabalhando_com_datas/date_format/exercicio/Exercicio001.java
+ aulas.trabalhando_com_datas.date_format.exercicio.Exercicio001
 aulas/oo/part3/heranca/exemplo002/Motocicleta.java
  aulas.oo.part3.heranca.exemplo002.Motocicleta
 aulas/oo/part3/heranca/exemplo003/Veiculo.java
@@ -110,23 +128,5 @@ aulas/oo/part4/exemplo_hashcode/Veiculo.java
  aulas.oo.part4.exemplo_hashcode.Veiculo
 aulas/oo/part3/heranca/exemplo002/Exemplo002.java
  aulas.oo.part3.heranca.exemplo002.Exemplo002
-aulas/trabalhando_com_datas/calendar/exercicio/Exercicio001.java
- aulas.trabalhando_com_datas.calendar.exercicio.Exercicio001
-aulas/trabalhando_com_datas/date_format/Exemplo008.java
- aulas.trabalhando_com_datas.date_format.Exemplo008
-aulas/trabalhando_com_datas/date_format/exercicio/Exercicio001.java
- aulas.trabalhando_com_datas.date_format.exercicio.Exercicio001
-aulas/trabalhando_com_datas/date_format/Exemplo009.java
- aulas.trabalhando_com_datas.date_format.Exemplo009
-aulas/trabalhando_com_datas/local_date/Exemplo010.java
- aulas.trabalhando_com_datas.local_date.Exemplo010
-aulas/trabalhando_com_datas/local_date/Exemplo011.java
- aulas.trabalhando_com_datas.local_date.Exemplo011
-aulas/trabalhando_com_datas/local_date/Exemplo012.java
- aulas.trabalhando_com_datas.local_date.Exemplo012
-aulas/trabalhando_com_datas/local_date/Exemplo013.java
- aulas.trabalhando_com_datas.local_date.Exemplo013
 aulas/trabalhando_com_datas/local_date/exercicio/Exercicio001.java
  aulas.trabalhando_com_datas.local_date.exercicio.Exercicio001
-aulas/trabalhando_com_datas/local_date/Exemplo014.java
- aulas.trabalhando_com_datas.local_date.Exemplo014

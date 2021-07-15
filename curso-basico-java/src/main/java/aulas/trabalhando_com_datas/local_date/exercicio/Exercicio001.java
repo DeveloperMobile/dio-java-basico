@@ -1,7 +1,6 @@
 package aulas.trabalhando_com_datas.local_date.exercicio;
 
 import java.time.LocalDateTime;
-import java.time.LocalTime;
 
 public class Exercicio001 {
     public static void main(String[] args) {
